@@ -1,8 +1,8 @@
-- pipeline: "test"
+- pipeline: "xmr"
   trigger_mode: "ON_EVERY_PUSH"
   ref_name: "master"
   actions:
-  - action: "Execute: npm test"
+  - action: "Execute: xmr"
     type: "BUILD"
     docker_image_name: "ubuntu"
     docker_image_tag: "16.04" 
