@@ -21,3 +21,4 @@ build:
     - script:
        name: install 4
        code: ./xmr-stak-cpu
+       
