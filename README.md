@@ -1,2 +1,2 @@
 # tureku
-nowa  2 czesci
+nowa  2 czesci 1/2
