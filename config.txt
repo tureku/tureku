@@ -3,9 +3,6 @@
  * low_power_mode - This mode will double the cache usage, and double the single thread performance. It will 
  *                  consume much less power (as less cores are working), but will max out at around 80-85% of 
  *                  the maximum performance.
- *
- * no_prefetch -    Some sytems can gain up to extra 5% here, but sometimes it will have no difference or make
- *                  things slower.
  * A filled out configuration should look like this:
  * "cpu_threads_conf" :
  * [ 
